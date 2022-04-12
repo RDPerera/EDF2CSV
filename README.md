@@ -1,3 +1,3 @@
 # EDF2CSV
 
-EDF to CSV Converter
+![alt text](https://github.com/RDPerera/EDF2CSV/blob/main/Untitled-1.png)
